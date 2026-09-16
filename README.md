@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SEAD1576&show_icons=true&theme=radical" height="165" />
@@ -38,12 +38,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEAD1576&theme=react-dark" />
----
+<img src="https://github-profile-trophy.vercel.app/?username=SEAD1576&theme=radical&row=1&column=7" />
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/animesh-singh-510990214
