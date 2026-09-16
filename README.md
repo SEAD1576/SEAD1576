@@ -137,12 +137,11 @@ I'm continuously experimenting with new technologies, APIs, architectures and id
 
 ## 🏆 Achievements Unlocked
 
-
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=SEAD1576&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=7"
-  alt="GitHub Trophies"
+  src="https://github-profile-svg.vercel.app/api/profile?username=SEAD1576&mode=glass&theme=dark"
+  alt="GitHub Achievements"
   width="100%"
 />
 
