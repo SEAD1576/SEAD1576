@@ -137,11 +137,6 @@ I'm continuously experimenting with new technologies, APIs, architectures and id
 
 ## 🌌 Contribution Galaxy
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEAD1576&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
 
 > **Every contribution tells a story.**
 > From small fixes to large projects — consistency compounds.
@@ -150,9 +145,14 @@ I'm continuously experimenting with new technologies, APIs, architectures and id
 
 ## 🏆 Achievements Unlocked
 
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEAD1576&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=7" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=SEAD1576&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=7"
+  alt="GitHub Trophies"
+  width="100%"
+/>
 
 </div>
 
